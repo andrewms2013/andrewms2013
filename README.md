@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![astolpho](https://github.com/andrewms2013/andrewms2013/blob/master/astolpho.png)
-
+<img src="https://github.com/andrewms2013/andrewms2013/blob/master/astolpho.png" width="300" height="300">
 <!--
 **andrewms2013/andrewms2013** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
