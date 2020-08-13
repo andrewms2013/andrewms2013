@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <img src="https://github.com/andrewms2013/andrewms2013/blob/master/astolpho.png" width="300" height="300">
+
+[![Andrii's github stats](https://github-readme-stats.vercel.app/api?username=andrewms2013)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **andrewms2013/andrewms2013** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
